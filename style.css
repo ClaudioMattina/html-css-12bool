@@ -1,0 +1,18 @@
+/* IN CASO SI INSERISCA UN FRAMEWORK OD UNA LIBRERIA CON ALL'INTENO IL RESET NON BISOGNA METTERLO POI NEL CSS PRINCIPALE */
+
+
+.col{
+    height: 50px;
+    background-color: aquamarine;
+    border: 1px solid white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.separation{
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+
